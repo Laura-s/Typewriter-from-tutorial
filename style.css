@@ -6,6 +6,7 @@ body {
   background: #333 url('61OErAVoo5L._SL1200_.jpg') no-repeat center center / cover;
   color: #ccc;
   overflow:hidden;
+  margin: 0;
 }
 
 .container {
